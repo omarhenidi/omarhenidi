@@ -1,37 +1,30 @@
-<h1 align="center">Hi 👋 I'm George Abd-Elmesseh</h1>
- <h3 align="center">A passionate Flutter Developer from Egypt</h3>
+<h1 align="center">Hi 👋 I'm Omar Ali</h1>
+ <h3 align="center">A passionate Full Stack Developer from Egypt</h3>
 <br>
 
-- ⚡ I'm currently working as a freelancer Flutter developer
+- ⚡ I'm currently working as a freelancer Full Stack developer
 
-- 🌱 I'm currently learning *Cyber Security*
-- 👨🏽‍🤝‍👨🏼 I'm looking to collaborate on *Flutter Projects*
-- 📫 How to reach me *georgeabdelmessech960@gmail.com*
+- 🌱 I'm currently learning *Machine Learning*
+- 📫 How to reach me *omarali4001@gmail.com*
 <br>
 
 <h3 align="left">Real Projects:</h3>
 
-- Elkhawaga App <br>
-Small ERP system for Elkhawaga shop, By using '*barcode scanner*' to retrieve information about the scanned product.
-
 - Tamweel Misr App <br>
 Tameel Miser provide Integration with Naser-Bank and Agricultural Bank of Egypt, users can make '*loan*' request via the mobile app.
+<br>
 
-- Flutter Bluetooth Print <br>
-Solve Arabic text print problems caused by flutter packages
 
-- Waffar-Cash App <br>
-Super app for serving many users, with good design and many features, published on [GooglePlay](https://play.google.com/store/apps/details?id=com.gao.waffar_cash&fbclid=IwAR3_l5uaCnORpFMrBNZfygRTwEbQusdo8jBur7A2DwtAgJ1ZcMx2iraGOp8) and [AppStore]( https://apps.apple.com/app/waffar-cash/id1626369167)
-
-- Discount Emy App <br>
-Discount Emy provides good offers for users, published on [GooglePlay](https://play.google.com/store/apps/details?id=com.technospace.emy_discount&hl=en_US&gl=US) and [AppStore](https://apps.apple.com/fr/app/discount-emy/id1617326763)
+- NFC Card For User Profile<br>
+Using React js and Firebase, users can put nfc crud behind the phone and get the website where the user information
+<br>
 
 - Desktop Downloader<br>
 Using Python users can download any files from the internet via its link and also can download YouTube videos as a single video or a full playlist with professional GUI
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align='left'><img src="https://img.icons8.com/color/344/flutter.png" width="40" height="40">
+<p align='left'>
 <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="40" height="40">
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="40" height="40">
