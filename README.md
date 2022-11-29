@@ -2,7 +2,6 @@
  <h3 align="center">A passionate Full Stack Developer from Egypt</h3>
 <br>
 
-<hr>
 - ⚡ I'm currently working as a freelancer Full Stack developer
 
 - 🌱 I'm currently learning *Machine Learning*
