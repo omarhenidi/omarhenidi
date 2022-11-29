@@ -24,7 +24,7 @@ Using Python users can download any files from the internet via its link and als
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<hr>
+<br>
 
 <p align='left'>
 <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" width="40" height="40">
@@ -46,7 +46,7 @@ Using Python users can download any files from the internet via its link and als
 <br>
 <!-- Start Section Contact Me -->
 <h3> CONTACT ME:</h3>
-<hr>
+<br>
 
 <p>
   <a href="https://www.facebook.com/profile.php?id=100010820747904" target="_blank">
