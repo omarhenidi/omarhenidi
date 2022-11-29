@@ -43,7 +43,7 @@ Using Python users can download any files from the internet via its link and als
 
 <br>
 <!-- Start Section Contact Me -->
-<h3> CONTACT ME </h3>
+<h3> CONTACT ME:</h3>
 <p>
   <a href="https://www.facebook.com/profile.php?id=100010820747904" target="_blank">
     <img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
