@@ -7,7 +7,20 @@
 - 🌱 I'm currently learning *Machine Learning*
 - 📫 How to reach me *omarali4001@gmail.com*
 <br>
-
+<!-- Start Section Contact Me -->
+<h2> CONTACT ME </h2>
+<p>
+  <a href="https://www.facebook.com/a7mds3d2001" target="_blank">
+    <img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a> 
+  <a href="http://Wa.me/201026272813" target="_blank">
+    <img alt="Google Play" src="https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a> 
+  <a href="https://www.linkedin.com/in/ahmed-saad-2001/" target="_blank">
+    <img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+<p>
+<!-- End Section Contact Me -->
 <h3 align="left">Real Projects:</h3>
 
 - Tamweel Misr App <br>
