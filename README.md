@@ -7,7 +7,7 @@
 - 🌱 I'm currently learning *Machine Learning*
 - 📫 How to reach me *omarali4001@gmail.com*
 <br>
-
+<hr>
 <h3 align="left">Real Projects:</h3>
 
 - Tamweel Misr App <br>
