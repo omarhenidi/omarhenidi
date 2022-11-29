@@ -23,8 +23,12 @@ Using React js and Firebase, Users can put nfc crud behind the phone and get the
 Using Python users can download any files from the internet via its link and also can download YouTube videos as a single video or a full playlist with professional GUI
 <br>
 
+- E-Commerce Website<br>
+Using Laravel and MySql
+<br>
+
 - Dental Clinic Website<br>
-Using PHP and MY SQL, Users can book an appointment with the doctor and see the clinic and the doctor's tools 
+Using PHP and MYSQL, Users can book an appointment with the doctor and see the clinic and the doctor's tools 
 <br>
 
 - E-Learning Website<br>
