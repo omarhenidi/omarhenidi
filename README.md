@@ -22,7 +22,7 @@ Using React js and Firebase, users can put nfc crud behind the phone and get the
 - Desktop Downloader<br>
 Using Python users can download any files from the internet via its link and also can download YouTube videos as a single video or a full playlist with professional GUI
 <br>
-
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align='left'>
 <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" width="40" height="40">
