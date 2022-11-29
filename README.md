@@ -2,6 +2,7 @@
  <h3 align="center">A passionate Full Stack Developer from Egypt</h3>
 <br>
 
+<hr>
 - ⚡ I'm currently working as a freelancer Full Stack developer
 
 - 🌱 I'm currently learning *Machine Learning*
@@ -43,7 +44,7 @@ Using Python users can download any files from the internet via its link and als
 
 <br>
 
-
+<hr>
 <!-- Start Section Contact Me -->
 <h3> CONTACT ME:</h3>
 <p>
@@ -58,6 +59,7 @@ Using Python users can download any files from the internet via its link and als
   </a> 
 <p>
 <!-- End Section Contact Me -->
- 
- <hr>
+<br>
+
+<hr>
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=a7md-s3d-2001&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
