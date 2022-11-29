@@ -61,4 +61,4 @@ Using Python users can download any files from the internet via its link and als
 <br>
 
 <hr>
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=OmarAli70&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=OmarAli70" alt="abhisheknaiidu" />
