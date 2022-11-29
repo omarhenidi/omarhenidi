@@ -7,20 +7,7 @@
 - 🌱 I'm currently learning *Machine Learning*
 - 📫 How to reach me *omarali4001@gmail.com*
 <br>
-<!-- Start Section Contact Me -->
-<h2> CONTACT ME </h2>
-<p>
-  <a href="https://www.facebook.com/a7mds3d2001" target="_blank">
-    <img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a> 
-  <a href="http://Wa.me/201026272813" target="_blank">
-    <img alt="Google Play" src="https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a> 
-  <a href="https://www.linkedin.com/in/ahmed-saad-2001/" target="_blank">
-    <img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
-<p>
-<!-- End Section Contact Me -->
+
 <h3 align="left">Real Projects:</h3>
 
 - Tamweel Misr App <br>
@@ -50,4 +37,22 @@ Using Python users can download any files from the internet via its link and als
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="40" height="40">
 <img src="https://cdn-icons-png.flaticon.com/512/6119/6119533.png" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Raspberry_Pi_logo.svg/1200px-Raspberry_Pi_logo.svg.png" width="40" height="40">
-<img src="https://www.9and9.com/image/webrtc.png" width="40" height="40"></p>
+<img src="https://www.9and9.com/image/webrtc.png" width="40" height="40">
+</p>
+
+
+
+<!-- Start Section Contact Me -->
+<h3> CONTACT ME </h3>
+<p>
+  <a href="https://www.facebook.com/a7mds3d2001" target="_blank">
+    <img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a> 
+  <a href="http://Wa.me/201004753538" target="_blank">
+    <img alt="Google Play" src="https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a> 
+  <a href="https://www.linkedin.com/in/omar-ali-290170209/" target="_blank">
+    <img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+<p>
+<!-- End Section Contact Me -->
