@@ -8,9 +8,9 @@
 - 📫 How to reach me *omarali4001@gmail.com*
 <br>
 <hr>
-<!-- <h3 align="left">Real Projects:</h3> -->
+<h3 align="left">Real Projects:</h3>
 
-<!-- - Tamweel Misr App <br>
+ - Tamweel Misr App <br>
 Tameel Miser provide Integration with Naser-Bank and Agricultural Bank of Egypt, users can make '*loan*' request via the mobile app.
 <br>
 
@@ -23,9 +23,6 @@ Using React js and Firebase, Users can put nfc crud behind the phone and get the
 Using Python users can download any files from the internet via its link and also can download YouTube videos as a single video or a full playlist with professional GUI
 <br>
 
-- E-Commerce Website<br>
-Using Laravel and MySql
-<br>
 
 - Dental Clinic Website<br>
 Using PHP and MYSQL, Users can book an appointment with the doctor and see the clinic and the doctor's tools 
@@ -33,7 +30,7 @@ Using PHP and MYSQL, Users can book an appointment with the doctor and see the c
 
 - E-Learning Website<br>
 Using PHP and MY SQL, Users can watching the courses and entering the course, and after the end of the course, he takes an exam
-<br> -->
+<br>
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
