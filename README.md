@@ -10,6 +10,26 @@
 <hr>
 <h3 align="left">Real Projects:</h3>
 
+
+ - Order<br>
+ 
+-> Order Website:
+Customers can browse products by category or search for specific items.
+They can add products to their shopping cart and proceed to checkout.
+Registered customers can track their orders, view order history, and manage their account settings.
+
+->Order Dashboard:
+Sellers or administrators can log in to the dashboard to view incoming orders.
+They can update order statuses, manage inventory, and communicate with customers.
+The dashboard provides real-time analytics, sales reports, and customer insights.
+
+->API for Mobile Apps:
+Mobile app developers can integrate the API into their iOS and Android apps.
+The API allows app users to view products, place orders, and track shipments.
+It provides secure authentication and authorization mechanisms to ensure data privacy.
+
+<br>
+
  - Tamweel Misr App <br>
 Tameel Miser provide Integration with Naser-Bank and Agricultural Bank of Egypt, users can make '*loan*' request via the mobile app.
 <br>
