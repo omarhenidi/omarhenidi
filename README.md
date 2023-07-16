@@ -11,7 +11,7 @@
 <h3 align="left">Real Projects:</h3>
 
 
- - Tamweel Misr App <br>
+ - Tamweel Misr App For eAswaaq Misr Company <br>
 Tameel Miser provide Integration with Naser-Bank and Agricultural Bank of Egypt, users can make '*loan*' request via the mobile app.
 <br>
 <hr>
@@ -33,7 +33,7 @@ Built with Laravel, the API for Mobile Apps facilitates seamless integration of 
 <br>
 <hr>
 
- - E-Commerce App <br>
+ - E-Commerce App For Tecnospace Company <br>
 Using Laravel, API for Mobile Apps Mobile app developers can integrate the API into their iOS and Android apps. The API allows app users to view products, place orders, and track shipments. It provides secure authentication and authorization mechanisms to ensure data privacy.
 <br>
 <hr>
