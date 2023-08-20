@@ -5,7 +5,7 @@
 - ⚡ I'm currently working as a freelancer Full Stack developer
 
 - 🌱 I'm currently learning *Machine Learning*
-- 📫 How to reach me *omarali4001@gmail.com*
+- 📫 How to reach me *omarhenidi@gmail.com*
 <br>
 <hr>
 <h3 align="left">Real Projects:</h3>
