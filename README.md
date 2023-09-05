@@ -89,7 +89,7 @@ Using PHP and MY SQL, Users can watching the courses and entering the course, an
   <a href="http://Wa.me/201004753538" target="_blank">
     <img alt="Google Play" src="https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a> 
-  <a href="https://www.linkedin.com/in/omahenidi" target="_blank">
+  <a href="https://www.linkedin.com/in/omarhenidi" target="_blank">
     <img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
 <p>
