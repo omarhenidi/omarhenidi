@@ -97,4 +97,4 @@ Using PHP and MY SQL, Users can watching the courses and entering the course, an
 <br>
 
 <hr>
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=OmarAli70&theme=gotham"  alt="abhisheknaiidu" />
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=omarhenidi&theme=gotham"  alt="abhisheknaiidu" />
