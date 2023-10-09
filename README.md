@@ -16,7 +16,7 @@ Tameel Miser provide Integration with Naser-Bank and Agricultural Bank of Egypt,
 <br>
 <hr>
 
-<h5 align="left">Order Project:</h3>
+<p align="left">Order Project:</p>
 
 - Order Web Application: <br>
 The Order Web Application is built using React Js, providing customers with an intuitive interface to browse products. Customers can easily search for specific items or explore products by category. The application enables users to add products to their shopping cart and proceed to checkout seamlessly. Additionally, registered customers gain access to advanced features such as order tracking, viewing order history, and managing their account settings.
