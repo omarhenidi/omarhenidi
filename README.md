@@ -8,57 +8,7 @@
 - 📫 How to reach me *omarhenidi@gmail.com*
 <br>
 <hr>
-<h3 align="left">Real Projects:</h3>
 
-
- - Tamweel Misr App For eAswaaq Misr Company <br>
-Tameel Miser provide Integration with Naser-Bank and Agricultural Bank of Egypt, users can make '*loan*' request via the mobile app.
-<br>
-<hr>
-
-<p align="left">Order Project:</p>
-
-- Order Web Application: <br>
-The Order Web Application is built using React Js, providing customers with an intuitive interface to browse products. Customers can easily search for specific items or explore products by category. The application enables users to add products to their shopping cart and proceed to checkout seamlessly. Additionally, registered customers gain access to advanced features such as order tracking, viewing order history, and managing their account settings.
-
-
-- Order Dashboard: <br>
-Developed using Laravel, the Order Dashboard offers a comprehensive solution for sellers and administrators to efficiently manage incoming orders. Sellers can log in to the dashboard to gain access to a centralized platform where they can effortlessly view and organize incoming orders. This includes updating order statuses, managing inventory levels, and facilitating effective communication with customers. The dashboard provides real-time analytics, sales reports, and customer insights to support data-driven decision-making.
- 
-
-- API for Mobile Apps: <br>
-Built with Laravel, the API for Mobile Apps facilitates seamless integration of the Order Management System with iOS and Android applications. Mobile app developers can leverage this API to enhance their applications with powerful features. App users can effortlessly view products, place orders, and track shipments directly through the mobile apps. To ensure data privacy, the API incorporates secure authentication and authorization mechanisms, providing a reliable and trustworthy experience for users.
-
-
-<br>
-<hr>
-
- - E-Commerce App For Tecnospace Company <br>
-Using Laravel, API for Mobile Apps Mobile app developers can integrate the API into their iOS and Android apps. The API allows app users to view products, place orders, and track shipments. It provides secure authentication and authorization mechanisms to ensure data privacy.
-<br>
-<hr>
-
-- NFC Card For User Profile<br>
-Using React js and Firebase, Users can put nfc crud behind the phone and get the website where the user information
-<br>
-<hr>
-
-- Desktop Downloader<br>
-Using Python users can download any files from the internet via its link and also can download YouTube videos as a single video or a full playlist with professional GUI
-<br>
-<hr>
-
-
-- Dental Clinic Website<br>
-Using PHP and MYSQL, Users can book an appointment with the doctor and see the clinic and the doctor's tools 
-<br>
-<hr>
-
-- E-Learning Website<br>
-Using PHP and MY SQL, Users can watching the courses and entering the course, and after the end of the course, he takes an exam
-<br>
-
-<hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align='left'>
 <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" width="40" height="40">
