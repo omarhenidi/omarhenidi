@@ -14,7 +14,7 @@
 <p>- <strong>Tamweel Misr App for eAswaaq Misr Company</strong><br>
    Tamweel Misr facilitates integration with Naser Bank and Agricultural Bank of Egypt. Users can request loans through the mobile app.</p>
 
-<p><strong>Order Project:</strong><br> The Order Project is a multifaceted venture featuring an innovative Order Web Application crafted with React.js. It grants customers an elegant and user-friendly interface for effortless product exploration, cart management, and streamlined checkout. Simultaneously, the Order Dashboard, meticulously constructed using Laravel, empowers sellers and administrators by facilitating the efficient management of incoming orders, equipped with real-time analytics and comprehensive sales reports. Furthermore, the associated API for Mobile Apps seamlessly integrates the Order Management System with iOS and Android applications, enabling product viewing, order placement, and shipment tracking.</p>
+<p>- <strong>Order Project:</strong><br> The Order Project is a multifaceted venture featuring an innovative Order Web Application crafted with React.js. It grants customers an elegant and user-friendly interface for effortless product exploration, cart management, and streamlined checkout. Simultaneously, the Order Dashboard, meticulously constructed using Laravel, empowers sellers and administrators by facilitating the efficient management of incoming orders, equipped with real-time analytics and comprehensive sales reports. Furthermore, the associated API for Mobile Apps seamlessly integrates the Order Management System with iOS and Android applications, enabling product viewing, order placement, and shipment tracking.</p>
 
 
 <p>- <strong>E-Commerce App for Tecnospace Company:</strong><br>
