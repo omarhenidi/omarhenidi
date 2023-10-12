@@ -14,16 +14,8 @@
 <p>- <strong>Tamweel Misr App for eAswaaq Misr Company</strong><br>
    Tamweel Misr facilitates integration with Naser Bank and Agricultural Bank of Egypt. Users can request loans through the mobile app.</p>
 
-<p>- <strong>Order Project:</strong></p>
+<p><strong>Order Project:</strong><br> The Order Project involves the development of a comprehensive system to streamline the ordering process. This encompasses the creation of an intuitive web application using React.js, providing customers with a user-friendly interface for browsing products, managing shopping carts effortlessly, and expediting the checkout process. Additionally, registered users gain access to an Order Dashboard built with Laravel, empowering sellers and administrators to efficiently handle incoming orders. The dashboard offers real-time analytics, insightful sales reports, and facilitates data-driven decision-making. Moreover, an API for Mobile Apps, developed using Laravel, seamlessly integrates the Order Management System with both iOS and Android applications. This integration enhances user experience by enabling seamless product viewing, order placement, and shipment tracking.</p>
 
-<ul>
-    <li><strong>Order Web Application:</strong><br>
-        The Order Web Application, built with React.js, offers customers an intuitive interface for product browsing, shopping cart management, and easy checkout. Registered users can access advanced features like order tracking and account management.</li>
-    <li><strong>Order Dashboard:</strong><br>
-        The Order Dashboard, developed using Laravel, empowers sellers and administrators to efficiently manage incoming orders. It provides real-time analytics and sales reports for data-driven decisions.</li>
-    <li><strong>API for Mobile Apps:</strong><br>
-        This Laravel-based API enables seamless integration of the Order Management System with iOS and Android applications, offering features like product viewing, order placement, and shipment tracking.</li>
-</ul>
 
 <p>- <strong>E-Commerce App for Tecnospace Company:</strong><br>
     Using Laravel, the API for Mobile Apps integrates with iOS and Android apps, allowing users to view products, place orders, and track shipments securely.</p>
