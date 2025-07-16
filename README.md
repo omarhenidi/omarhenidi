@@ -54,16 +54,12 @@ I'm a **Full Stack Engineer** with strong experience in architecting and deliver
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
----
-
 <!-- ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarhenidi&theme=vue-dark&hide_border=false)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omarhenidi&theme=vue-dark&hide_border=false) -->
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=omarhenidi&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
-
----
 
 [![](https://visitcount.itsvg.in/api?id=omarhenidi&icon=0&color=1)](https://visitcount.itsvg.in)
 
